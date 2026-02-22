@@ -12,7 +12,6 @@
   Building scalable digital products with Python & modern web technologies.
 </p>
 
---->
 
 ---
 
