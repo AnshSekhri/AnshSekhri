@@ -1,18 +1,18 @@
 <!-- ============================= -->
-<!--   ULTRA PREMIUM FOUNDER MODE  -->
+<!--     CLEAN FOUNDER HEADER     -->
 <!-- ============================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ansh+Sekhri;Startup+Focused+Full+Stack+Engineer;Building+Scalable+Digital+Products+🚀;From+Idea+→+Execution+→+Launch" />
-</h1>
+<h1 align="center">Ansh Sekhri</h1>
 
 <p align="center">
-  <b>🚀 Founder-Minded Developer | Backend Architect | Product Builder</b>
+  Founder-Focused Full Stack Engineer • Backend Systems Builder • Product Developer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshSekhri&label=Profile%20Views&color=0e75b6&style=flat" />
+  Building scalable digital products with Python & modern web technologies.
 </p>
+
+--->
 
 ---
 
@@ -82,6 +82,28 @@ From database design to deployment.
 [![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshSekhri&theme=tokyo-night&hide_border=true)](https://github.com/AnshSekhri)
 
 ---
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshsekhri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/sekhri__ansh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="sekhriansh556@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 🚀 Current Focus
 
