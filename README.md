@@ -1,40 +1,57 @@
-<!-- PREMIUM GITHUB PROFILE FOR ANSH SEKHRI -->
+<!-- ============================= -->
+<!--   ULTRA PREMIUM FOUNDER MODE  -->
+<!-- ============================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ansh+Sekhri;Full+Stack+Developer;Python+Backend+Engineer;Building+Real+World+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ansh+Sekhri;Startup+Focused+Full+Stack+Engineer;Building+Scalable+Digital+Products+🚀;From+Idea+→+Execution+→+Launch" />
 </h1>
 
 <p align="center">
-  <b>🚀 Full Stack Developer | Backend Engineer | Product Builder</b>
+  <b>🚀 Founder-Minded Developer | Backend Architect | Product Builder</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AnshSekhri">
-    <img src="https://komarev.com/ghpvc/?username=AnshSekhri&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnshSekhri&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Founder Mindset
 
-- 🎯 Currently building: **CUCET Preparation Platform**
-- 💡 Passionate about: Scalable Systems, Backend Architecture, AI
-- 🛠 Love working with: Python, Django, Databases
-- 📍 India
-- 📈 Always learning & shipping products
+I don't just write code.  
+I build systems, products, and scalable solutions.
+
+Currently building:
+
+### 🎓 CUCET Preparation Platform
+A scholarship-focused digital education platform designed to help students secure up to 100% scholarships.
+
+**Vision:**  
+Make competitive exam preparation structured, guided, and outcome-driven.
 
 ---
 
-## 🛠 Tech Stack
+## 🏗 What I Build
+
+- 🧩 End-to-End Web Applications  
+- 🔐 Secure Backend Systems  
+- 💳 Payment Integrated Platforms  
+- 📊 Admin Dashboards  
+- 📱 Fully Responsive Products  
+
+From database design to deployment.
+
+---
+
+## 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,git,github,mysql,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,postgresql,mysql,git,github,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Founder Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshSekhri&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -47,7 +64,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Intelligence
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -60,40 +77,32 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🎓 CUCET Preparation Platform
-
-A full-stack web platform designed to help students secure scholarships through CUCET.
-
-**Features:**
-- 📚 Previous Year Papers
-- 🎥 1-on-1 Guidance
-- 💳 Payment Gateway Integration
-- 📊 Admin Dashboard
-- 📱 Fully Responsive UI
-
-**Tech Stack:**
-Python • Django • PostgreSQL • Razorpay • Bootstrap
-
----
-
-## 📈 Contribution Graph
+## 📈 Growth Graph
 
 [![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshSekhri&theme=tokyo-night&hide_border=true)](https://github.com/AnshSekhri)
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Current Focus
 
-<p align="center">
-  <a href="https://github.com/AnshSekhri">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Scaling CUCET Platform
+- Building sustainable revenue model
+- Backend optimization & performance
+- Product-market validation
+- Consistent daily shipping
+
+---
+
+## 🧭 Long Term Vision
+
+- Build scalable education-tech solutions  
+- Create systems that impact thousands of students  
+- Launch profitable digital products  
 
 ---
 
 <p align="center">
-  ⚡ “Consistency beats motivation. Build daily.” ⚡
+  ⚡ Discipline > Motivation  
+  <br>
+  🚀 Build. Ship. Scale.
 </p>
