@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>🚀 Full Stack Developer | Backend Engineer | Product Builder</b>
+  <b>🚀 ML Enthusuiast | Backend Engineer | Product Builder</b>
 </p>
 
 <p align="center">
@@ -16,84 +16,111 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me  
 
-- 🎯 Currently building: **CUCET Preparation Platform**
-- 💡 Passionate about: Scalable Systems, Backend Architecture, AI
-- 🛠 Love working with: Python, Django, Databases
-- 📍 India
-- 📈 Always learning & shipping products
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning.  
+I enjoy building full-stack applications and backend systems that solve real-world problems.
+
+- 🎓 B.Tech (AI/ML)  
+- 💻 Focused on Backend Development & Full Stack Projects  
+- 🚀 Currently building a **CUCET Preparation Platform**  
+- 📚 Interested in AI, scalable systems, and real-world product building  
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Projects  
+
+### 🎓 CUCET Preparation Platform  
+A full-stack platform designed to help students prepare for CUCET and secure scholarships.
+
+- Authentication & user system  
+- Course locking & unlocking  
+- Payment integration (Razorpay flow)  
+- Admin + student dashboard  
+
+---
+
+### 🕸️ Job Scraper (Playwright Automation)  
+Automated job scraping system for extracting listings from dynamic websites.
+
+- Handles pagination & dynamic content  
+- Extracts structured job data  
+- Built using Playwright  
+
+---
+
+### 🔐 Authentication System (Django + JWT)  
+Secure authentication system using JWT tokens.
+
+- Login / Signup / Profile APIs  
+- Token-based authentication  
+- Protected routes  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** Python, JavaScript, SQL  
+**Frameworks:** Django, Django REST Framework, React  
+**Databases:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, Postman, Linux  
+**Other:** JWT, Web Scraping (Playwright, Selenium)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,git,github,mysql,postgresql,linux" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnshSekhri&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshSekhri&theme=default" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshSekhri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshSekhri&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSekhri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" 
-       src="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-contribution-grid-snake.svg">
+          srcset="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-snake.svg">
+  <img alt="github snake animation" 
+       src="https://raw.githubusercontent.com/AnshSekhri/AnshSekhri/output/github-snake.svg">
 </picture>
 
 ---
 
-## 🚀 Featured Project
+## 📈 Current Focus  
 
-### 🎓 CUCET Preparation Platform
-
-A full-stack web platform designed to help students secure scholarships through CUCET.
-
-**Features:**
-- 📚 Previous Year Papers
-- 🎥 1-on-1 Guidance
-- 💳 Payment Gateway Integration
-- 📊 Admin Dashboard
-- 📱 Fully Responsive UI
-
-**Tech Stack:**
-Python • Django • PostgreSQL • Razorpay • Bootstrap
+- 🚀 Building and improving CUCET platform  
+- 🔐 Backend architecture & security  
+- 💳 Payment system integration  
+- 📊 Real-world product development  
 
 ---
 
-## 📈 Contribution Graph
-
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshSekhri&theme=tokyo-night&hide_border=true)](https://github.com/AnshSekhri)
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/AnshSekhri">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/anshsekhri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/sekhri__ansh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sekhriansh556@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ “Consistency beats motivation. Build daily.” ⚡
+  ⚡ Learning by building. Improving every day.
 </p>
