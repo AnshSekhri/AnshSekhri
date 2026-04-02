@@ -1,7 +1,7 @@
 <!-- PREMIUM GITHUB PROFILE FOR ANSH SEKHRI -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ansh+Sekhri;Full+Stack+Developer;Python+Backend+Engineer;Building+Real+World+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ansh+Sekhri;ML+ENTHUSIAST;Python+Backend+Engineer;Building+Real+World+Products+🚀" />
 </h1>
 
 <p align="center">
